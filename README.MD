@@ -19,6 +19,8 @@ line 1 from aaa
 // don't del this line from aaa
 // ok  I will fix it
 // here u r ?
+// where is the y?
+// A is here
 
 line2 from bbb
 why change my file ?
