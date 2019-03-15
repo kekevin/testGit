@@ -17,6 +17,7 @@ after conflict-bbb add
 ----del 1
 line 1 from aaa
 // don't del this line from aaa
+// ok  I will fix it
 
 line2 from bbb
 why change my file ?
