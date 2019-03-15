@@ -7,3 +7,6 @@ time 11:00
 
 line 2 from bbb
 test conflict---bbb
+
+line 2 from bbb
+after conflict-bbb
