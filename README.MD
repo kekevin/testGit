@@ -10,3 +10,6 @@ test conflict---bbb
 
 line 2 from bbb
 after conflict-bbb
+
+line 2 from aaa
+may conflict -aaa
