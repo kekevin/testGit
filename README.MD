@@ -20,11 +20,9 @@ line 1 from aaa
 // ok  I will fix it
 // here u r ?
 // where is the y?
-<<<<<<< HEAD
 // where r u??
-=======
 // A is here
->>>>>>> 1fc7cc4c0dffce1ba8ea528092929961d4b5a76f
+// A is here2
 
 line2 from bbb
 why change my file ?
