@@ -14,8 +14,9 @@ after conflict-bbb
 line 2 from bbb
 after conflict-bbb add
 
+----del 1
 line 1 from aaa
-don't del this line from aaa
+// don't del this line from aaa
 
 line2 from bbb
 why change my file ?
