@@ -14,7 +14,7 @@ after conflict-bbb
 line 2 from bbb
 after conflict-bbb add
 
-----del 1
+// del 1
 line 1 from aaa
 // don't del this line from aaa
 // ok  I will fix it
@@ -22,6 +22,7 @@ line 1 from aaa
 // where is the y?
 // where r u??
 // A is here
+// what's that??
 // A is here2
 // can u get me?
 
