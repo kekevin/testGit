@@ -13,3 +13,7 @@ after conflict-bbb
 
 line 2 from bbb
 after conflict-bbb add
+
+
+line 1 from aaa
+don't del this line from aaa
