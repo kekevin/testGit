@@ -24,6 +24,7 @@ line 1 from aaa
 // A is here
 // what's that??
 // A is here2
+// b:I know you are there
 
 line2 from bbb
 why change my file ?
