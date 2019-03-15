@@ -18,8 +18,13 @@ after conflict-bbb add
 line 1 from aaa
 // don't del this line from aaa
 // ok  I will fix it
+// here u r ?
 // where is the y?
+<<<<<<< HEAD
 // where r u??
+=======
+// A is here
+>>>>>>> 1fc7cc4c0dffce1ba8ea528092929961d4b5a76f
 
 line2 from bbb
 why change my file ?
