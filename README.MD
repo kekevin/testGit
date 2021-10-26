@@ -1,2 +1,1 @@
-first line
-B: hello!
+1
