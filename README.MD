@@ -1,4 +1,4 @@
-git add . && git commit -m "9" && git pull && git push
+git add . && git commit -m "1" && git pull && git push
 git checkout saas-test && git pull
 git merge --no-ff module_v1.0.0 && git push && git checkout module_v1.0.0
 1
@@ -9,3 +9,4 @@ git merge --no-ff module_v1.0.0 && git push && git checkout module_v1.0.0
 6
 8
 9
+1
